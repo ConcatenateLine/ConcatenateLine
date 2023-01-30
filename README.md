@@ -1,7 +1,7 @@
 <img src="https://thumbs.odycdn.com/2973db1642aed847567a30377229e649.webp" alt="Banner image">
 
-<img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
- 
+<img align="right" height="270px" alt="computer" width="350" src="https://user-images.githubusercontent.com/123336223/215393673-c639c1f3-9496-467a-82a5-655865cc936d.gif" />
+
 - ### Hi there 👋 I am ConcatenateLine
 
 > I am a hardworking who is dedicated towards his goals.
@@ -72,16 +72,15 @@
 
 <table><tr><td valign="top" width="49%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ConcatenateLine&custom_title=Stats&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" style="width: 97%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ConcatenateLine&custom_title=Stats&show_icons=true&count_private=true&hide_border=true&theme=noctis_minimus" align="left" style="width: 97%" />
 
 </td><td valign="top" width="49%">
 
-<img src="https://streak-stats.demolab.com/?user=ConcatenateLine&theme=tokyonight&hide_border=true" align="left" style="width: 97%" />
+<img src="https://streak-stats.demolab.com/?user=ConcatenateLine&theme=tokyonight&background=1b2932&dates=72b7c0&currStreakLabel=d3b692&ring=d3b692&fire=d3b692&sideLabels=afb8be&sideNums=afb8be&currStreakNum=afb8be&hide_border=true" align="left" style="width: 97%" />
 
-</td></tr></table>
+</td></tr>
+</table>
 
 <div>
-    <a><h2>Trophies</h2></a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=ConcatenateLine&row=4&theme=tokyonight&no-frame=true"/>
+	<img with="98%" alt="languaejes" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConcatenateLine&layout=compact&langs_count=10&hide_border=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
 </div>
