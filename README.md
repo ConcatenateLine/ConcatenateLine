@@ -37,7 +37,7 @@ I'm a passionate developer who thrives on solving problems and building tech sol
 <tr><td><a href="https://linkedin.com/in/josue-morales-pascual/" target="_blank">💼 LinkedIn</a></td></tr>
 <tr><td><a href="https://instagram.com/ConcatenateLine" target="_blank">📸 Instagram</a></td></tr>
 <tr><td><a href="https://gitlab.com/ConcatenateLine" target="_blank">🧪 GitLab</a></td></tr>
-<tr><td><a href="https://stackoverflow.com/ConcatenateLine" target="_blank">💬 Stack Overflow</a></td></tr>
+<tr><td></td></tr>
 </table>
 <table align="right">
 <tr><td><strong>🚧 Currently Learning</strong></td></tr>
