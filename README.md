@@ -17,7 +17,7 @@ I'm a passionate developer who thrives on solving problems and building tech sol
 
 ---
 
-<table width="100%">
+<table align="center" width="100%">
 <tr with="30%"><td>
 🧩 *"Make it work. Make it right. Make it fast."*  
 </td>
@@ -47,6 +47,5 @@ I'm a passionate developer who thrives on solving problems and building tech sol
 <tr><td>Docker</td></tr>
 <tr><td>Expo.JS</td></tr>
 </table></td>
-<td></td>
 </tr>
 </table>
